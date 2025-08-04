@@ -1,0 +1,6 @@
+local Games = {
+  [79546208627805] = "https://github.com/Ngu972/HA77---99-Day-In-The-Forest-1.git", -- 99 Nights in the Forest
+  [126509999114328] = "https://github.com/Ngu972/load-99-day-in-the-forest-.git", -- 99 Nights in the Forest 1
+ }
+
+return Games
